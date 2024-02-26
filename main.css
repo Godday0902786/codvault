@@ -1,0 +1,35 @@
+.body {
+       background-color: rgb(245, 245, 245);
+            color: #333;
+        }
+        h1, h2, h3 {
+            text-align: center;
+        }
+        img {
+            width: 10rem;
+            height: 10rem;
+            border-radius: 50%;
+            background-color: #ccc;
+        }
+.header {
+    color: aquamarine;
+    font-size: medium;
+
+}
+.header-h1 {
+    color: white;
+    font-size: small;
+    background-color: aqua;
+}
+.header-h2{
+    color: rgb(255, 255, 255);
+    font-size: small;
+}
+.header-h3{
+    color: black;
+    font-size: small;
+}
+.content {
+    color: white;
+    font-size: small;
+}
